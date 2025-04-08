@@ -1,5 +1,6 @@
 from Classes import Warrior, Mage, Archer, Paladin, EvilWizard
 
+# Starting instructions for the player
 def create_character():
     print("Choose your character class:")
     print("1. Warrior")

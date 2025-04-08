@@ -9,7 +9,8 @@ class Character:
         self.max_health = health
         self.block = False
         self.anti_heal = False
-
+    
+    # Basic attack
     def attack(self, opponent):
         if (opponent.block):
             print(f"{opponent.name} felt no damage!")
