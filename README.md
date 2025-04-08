@@ -1,0 +1,3 @@
+# Defeat the Evil Wizard Python Project
+
+This application allows users to play a game about defeating an the Evil Wizard. There are 4 starting classes to choose from consisting of Warrior, Mage, Archer, and Paladin. Each class has a different max HP and attack power. In addition, every class has two special abilities that can be used. These abilities range from powering up your damage, avoiding attacks, or stopping an enemy's healing. Combat is turn-based, and one action can be taken each turn. The wizard will respond after you by attacking once and healing himself. In order to provide input and interaction for the game, users can reference the command line UI.
